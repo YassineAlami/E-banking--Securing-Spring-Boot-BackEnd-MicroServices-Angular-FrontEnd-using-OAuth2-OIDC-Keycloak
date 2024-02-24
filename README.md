@@ -29,18 +29,9 @@ At the  branch labeled "Part2" we will see how to secure a microservice with OAu
 
 
 <br><br>
+At the  branch labeled "Part3" we will see how to develop and secure an application based on microservices using OAuth 2, OIDC, Keycloak :
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+🟢 Invenroty-service
+🟢 Frontend with Tymeleaf
+🟢 Frontend with Angular
 
