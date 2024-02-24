@@ -12,7 +12,7 @@ At the  branch labeled "Part1" we will see how to :<br>
 🔵 Create Roles<br>
 🔵 Assign Roles to Users<br>
 🔵 Test using Postman :<br>
-        Authentication using password.<br>
+&nbsp&nbsp&nbsp&nbsp&nbspAuthentication using password.<br>
         Analysing the content of both JWT (Access Token and Refresh Token)<br>
         Authentication using Refresh Token<br>
         Authentication using Client ID and Client Secret<br>
