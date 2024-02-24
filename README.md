@@ -3,29 +3,32 @@ The project is mainly dedicated to securing the microservices of the backend and
 <hr>
 <br><br>
 
-At the  branch labeled "Part1" we will see how to :
-🔵 Start Keycloak.
-🔵 Create an ADMIN account
-🔵 Create a Realm
-🔵 Create the Client which will be secured
-🔵 Create USERS
-🔵 Create Roles
-🔵 Assign Roles to Users
-🔵 Test using Postman :
-        Authentication using password.
-        Analysing the content of both JWT (Access Token and Refresh Token)
-        Authentication using Refresh Token
-        Authentication using Client ID and Client Secret
-       Chainging the parameters Tokens, both Access Token and Refresh Token"
-
+At the  branch labeled "Part1" we will see how to :<br>
+🔵 Start Keycloak.<br>
+🔵 Create an ADMIN account<br>
+🔵 Create a Realm<br>
+🔵 Create the Client which will be secured<br>
+🔵 Create USERS<br>
+🔵 Create Roles<br>
+🔵 Assign Roles to Users<br>
+🔵 Test using Postman :<br>
+        Authentication using password.<br>
+        Analysing the content of both JWT (Access Token and Refresh Token)<br>
+        Authentication using Refresh Token<br>
+        Authentication using Client ID and Client Secret<br>
+       Chainging the parameters Tokens, both Access Token and Refresh Token"<br>
+<br>
 <hr>
 <br><br>
 
-At the  branch labeled "Part2" we will see how to secure a microservice with OAuth2 OIDC using Keycloak through an E-banking App ncluding the following services:
-🟠 1. A Customer-Service microservice for managing customers
-🟠 2. Secure the microservice using OAuth2 and OIDC with Keycloak
-🟠 3. Create a frontend application based on Angular for this microservice
-🟠 4. Secure the Angular frontend using Keycloak
+At the  branch labeled "Part2" we will see how to secure a microservice with OAuth2 OIDC using Keycloak through an E-banking App ncluding the following services:<br>
+🟠 1. A Customer-Service microservice for managing customers<br>
+🟠 2. Secure the microservice using OAuth2 and OIDC with Keycloak<br>
+🟠 3. Create a frontend application based on Angular for this microservice<br>
+🟠 4. Secure the Angular frontend using Keycloak<br>
+
+
+<br><br>
 
 
 
