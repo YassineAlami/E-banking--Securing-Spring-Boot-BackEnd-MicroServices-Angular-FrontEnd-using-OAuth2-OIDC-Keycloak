@@ -5,6 +5,9 @@
 <h2>Architecture</h2>
 
 
+![Screenshot (1777) ](https://github.com/YassineAlami/Securing-E-banking-Microservice-using-OAuth2-OIDC-with-Keycloak-Angular-frontEnd/assets/40896739/6ea3e463-5fbe-482b-964c-2392f66200ea)
+
+
 
 <hr>
 
