@@ -14,14 +14,14 @@ For the authentication, OAuth2 will be implemented for examples of authenticatio
 
 
 <p align="center">
-  <a> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Architecture&center=true&vCenter=true"</a>
+  <a> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Architecture&center=true&vCenter=true"></a>
 </p>
 
 
 
 <p align="center">  
 <p><img src="https://github.com/YassineAlami/Securing-E-banking-Microservice-using-OAuth2-OIDC-with-Keycloak-Spring-Boot-BackEnd-Angular-frontEnd/assets/40896739/c8cd4b5a-5550-4ff7-b1c2-4b2d04f93e49" alt="Screenshot (1777) "></p>
-</p>
+
 
 <hr>
 
