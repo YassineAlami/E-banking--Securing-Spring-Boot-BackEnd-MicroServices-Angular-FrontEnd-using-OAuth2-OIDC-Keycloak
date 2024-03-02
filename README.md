@@ -12,6 +12,7 @@ For the authentication, OAuth2 will be implemented for examples of authenticatio
 `**
 #
 
+
 <p align="center">
   <a> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Architecture&center=true&vCenter=true"</a>
 </p>
@@ -375,7 +376,7 @@ now we have to secure our angular front end using keycloak, for that we will nee
 
 
 
-
+<hr>
 
 
 
